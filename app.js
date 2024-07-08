@@ -1,8 +1,8 @@
 //Variables
-let numeroMaximoPosible = 100;
+let numeroMaximoPosible = 1000;
 let numeroSecreto = Math.floor(Math.random()*numeroMaximoPosible)+1;
 let numeroUsuario = 0;
-let intentos = 1;
+let intentos = 6;
 //let palabraVeces = 'vez';
 let maximosIntentos = 6;
 
